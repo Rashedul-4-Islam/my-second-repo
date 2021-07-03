@@ -1,3 +1,11 @@
 p{
     color:orangered;
 }
+h3{
+    text-align: center;
+}
+.center{
+    display:block;
+    margin:auto;
+    text-align: center;
+}
